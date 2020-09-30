@@ -22,10 +22,4 @@ Dentro del archivo `README.md` se debería incluir:
 
 ### Si un externo realiza una modificación. Les gustaría que complete cosas en el PR para entender el cambio. ¿Qué datos le pediría?, ¿Qué nos ofrece GitHub para ayudarnos con esto? 
 
-Es importante saber que modificó esa persona externa antes de aprobar o denegar los cambios. 
-Lo que nos ofrece GitHub es: 
-- Un campo de descripción en el Pull Request, en el cual dicha persona describe los cambios.
-- Una pestaña que muestra los archivos modificados, lo cual facilita la lectura del código y hace más rápida la revisión. 
-- Las ramas en las cuales se quiere introducir los cambios.
-- Mostrar las líneas agregadas y quitadas de los diferentes archivos modificados.
-- Para el encargado de autorizar los cambios, Git otorga también la posibilidad de marcar los cambios como revisados, pedir cambios nuevos, realizar comentarios y, en última instancia, una vez revisado el Pull Request, aprobarlo.
+Es importante saber que modificó esa persona externa antes de aprobar o denegar los cambios. GitHub ofrece una herramienta llamada Pull Request Template, la cual permite generar un marco de referencia que se puede completar para describir los cambios realizados. Son muy útiles ya que ayudan a establecer un estándar básico de calidad de la información proporcionada.
